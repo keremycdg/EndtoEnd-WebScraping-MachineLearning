@@ -1,0 +1,136 @@
+Price,Room_Count,Area(sqrmt),Age,Floor
+              5.000              TL,1 + 1,                          60 m2,Sıfır Bina,                      Bahçe Katı
+              5.000              TL,Stüdyo,                          25 m2,40 Yaşında,                      2. Kat
+              5.500              TL,2 + 1,                          100 m2,28 Yaşında,                      Yüksek Giriş
+              10.500              TL,2 + 1,                          125 m2,38 Yaşında,                      1. Kat
+              10.500              TL,2 + 1,                          125 m2,30 Yaşında,                      1. Kat
+              4.500              TL,2 + 1,                          70 m2,6 Yaşında,                      Yüksek Giriş
+              6.000              TL,2 + 1,                          85 m2,38 Yaşında,                      4. Kat
+              4.000              TL,1 + 1,                          55 m2,40 Yaşında,                      Kot 2
+              7.500              TL,3 + 1,                          120 m2,25 Yaşında,                      2. Kat
+              9.500              TL,2 + 1,                          89 m2,6 Yaşında,                      2. Kat
+              9.500              TL,2 + 1,                          90 m2,6 Yaşında,                      1. Kat
+              7.500              TL,2 + 1,                          83 m2,Sıfır Bina,                      Yüksek Giriş
+              5.000              TL,2 + 1,                          67 m2,45 Yaşında,                      4. Kat
+              5.500              TL,2 + 1,                          90 m2,30 Yaşında,                      3. Kat
+              7.500              TL,3 + 1,                          140 m2,40 Yaşında,                      4. Kat
+              6.300              TL,2 + 1,                          110 m2,31 Yaşında,                      1. Kat
+              5.000              TL,2 + 1,                          95 m2,35 Yaşında,                      En Üst Kat
+              1.500              TL,Stüdyo,                          37 m2,8 Yaşında,                      2. Kat
+              4.500              TL,2 + 1,                          65 m2,6 Yaşında,                      Yüksek Giriş
+              9.500              TL,2 + 1,                          85 m2,50 Yaşında,                      3. Kat
+              10.000              TL,2 + 1,                          125 m2,18 Yaşında,                      1. Kat
+              8.000              TL,3 + 1,                          115 m2,38 Yaşında,                      4. Kat
+              10.500              TL,2 + 1,                          140 m2,38 Yaşında,                      1. Kat
+              6.500              TL,2 + 1,                          85 m2,40 Yaşında,                      2. Kat
+              13.500              TL,2 + 1,                          90 m2,30 Yaşında,                      1. Kat
+              8.700              TL,3 + 1,                          130 m2,40 Yaşında,                      Ara Kat
+              8.000              TL,3 + 1,                          115 m2,40 Yaşında,                      1. Kat
+              8.000              TL,3 + 1,                          105 m2,30 Yaşında,                      Ara Kat
+              5.000              TL,2 + 1,                          95 m2,35 Yaşında,                      Ara Kat
+              7.500              TL,3 + 1,                          125 m2,35 Yaşında,                      Ara Kat
+              5.500              TL,3 + 1,                          97 m2,35 Yaşında,                      3. Kat
+              3.500              TL,Stüdyo,                          50 m2,25 Yaşında,                      Zemin
+              10.000              TL,3 + 1,                          140 m2,30 Yaşında,                      4. Kat
+              10.500              TL,2 + 1,                          120 m2,30 Yaşında,                      2. Kat
+              9.000              TL,2 + 1,                          100 m2,35 Yaşında,                      1. Kat
+              10.500              TL,2 + 1,                          95 m2,35 Yaşında,                      Ara Kat
+              4.000              TL,Stüdyo,                          25 m2,25 Yaşında,                      3. Kat
+              6.000              TL,2 + 1,                          75 m2,35 Yaşında,                      En Üst Kat
+              5.500              TL,2 + 1,                          85 m2,30 Yaşında,                      2. Kat
+              9.000              TL,2 + 1,                          100 m2,35 Yaşında,                      1. Kat
+              9.000              TL,2 + 1,                          92 m2,30 Yaşında,                      1. Kat
+              4.000              TL,Stüdyo,                          25 m2,25 Yaşında,                      3. Kat
+              12.000              TL,3 + 1,                          175 m2,42 Yaşında,                      4. Kat
+              10.000              TL,3 + 1,                          115 m2,32 Yaşında,                      1. Kat
+              7.000              TL,2 + 1,                          90 m2,40 Yaşında,                      2. Kat
+              8.000              TL,3 + 1,                          130 m2,49 Yaşında,                      4. Kat
+              9.500              TL,1 + 1,                          80 m2,15 Yaşında,                      3. Kat
+              6.500              TL,2 + 1,                          65 m2,45 Yaşında,                      2. Kat
+              8.000              TL,3 + 1,                          120 m2,35 Yaşında,                      3. Kat
+              6.000              TL,2 + 1,                          80 m2,30 Yaşında,                      4. Kat
+              20.000              TL,3 + 1,                          120 m2,30 Yaşında,                      4. Kat
+              5.000              TL,Stüdyo,                          25 m2,40 Yaşında,                      2. Kat
+              7.750              TL,1 + 1,                          68 m2,35 Yaşında,                      Yüksek Giriş
+              8.500              TL,5 + 1,                          150 m2,35 Yaşında,                      5. Kat
+              10.500              TL,2 + 1,                          120 m2,36 Yaşında,                      Ara Kat
+              8.000              TL,2 + 1,                          90 m2,40 Yaşında,                      2. Kat
+              7.500              TL,2 + 1,                          100 m2,35 Yaşında,                      1. Kat
+              7.000              TL,Stüdyo,                          75 m2,30 Yaşında,                      1. Kat
+              13.500              TL,1 + 1,                          100 m2,38 Yaşında,                      1. Kat
+              7.000              TL,2 + 1,                          95 m2,40 Yaşında,                      3. Kat
+              5.000              TL,1 + 1,                          70 m2,35 Yaşında,                      1. Kat
+              5.000              TL,Stüdyo,                          25 m2,40 Yaşında,                      2. Kat
+              5.000              TL,Stüdyo,                          25 m2,25 Yaşında,                      Ara Kat
+              7.500              TL,2 + 1,                          85 m2,Sıfır Bina,                      1. Kat
+              7.000              TL,2 + 1,                          90 m2,35 Yaşında,                      1. Kat
+              15.000              TL,2 + 1,                          100 m2,25 Yaşında,                      4. Kat
+              4.500              TL,2 + 1,                          85 m2,6 Yaşında,                      Yüksek Giriş
+              37.000              TL,2 + 1,                          95 m2,10 Yaşında,                      6. Kat
+              5.000              TL,2 + 1,                          80 m2,38 Yaşında,                      2. Kat
+              13.000              TL,5 + 2,                          300 m2,16 Yaşında,                      3. Kat
+              3.850              TL,Stüdyo,                          30 m2,10 Yaşında,                      Yüksek Giriş
+              7.000              TL,2 + 1,                          95 m2,35 Yaşında,                      2. Kat
+              7.000              TL,2 + 2,                          95 m2,Sıfır Bina,                      Giriş Katı
+              7.500              TL,3 + 1,                          125 m2,35 Yaşında,                      Ara Kat
+              5.000              TL,1 + 1,                          75 m2,4 Yaşında,                      En Üst Kat
+              15.000              TL,3 + 1,                          120 m2,38 Yaşında,                      1. Kat
+              5.500              TL,3 + 1,                          90 m2,35 Yaşında,                      1. Kat
+              3.000              TL,2 + 1,                          85 m2,25 Yaşında,                      4. Kat
+              7.000              TL,1 + 1,                          65 m2,40 Yaşında,                      4. Kat
+              7.000              TL,1 + 1,                          95 m2,34 Yaşında,                      Bahçe Katı
+              4.000              TL,Stüdyo,                          25 m2,26 Yaşında,                      Zemin
+              5.500              TL,1 + 1,                          60 m2,15 Yaşında,                      2. Kat
+              4.000              TL,2 + 1,                          75 m2,25 Yaşında,                      1. Kat
+              7.100              TL,2 + 1,                          90 m2,36 Yaşında,                      3. Kat
+              5.250              TL,2 + 1,                          70 m2,45 Yaşında,                      Yüksek Giriş
+              9.500              TL,1 + 1,                          90 m2,6 Yaşında,                      1. Kat
+              5.000              TL,2 + 1,                          80 m2,30 Yaşında,                      2. Kat
+              15.000              TL,4 + 2,                          180 m2,40 Yaşında,                      2. Kat
+              7.000              TL,2 + 1,                          95 m2,25 Yaşında,                      1. Kat
+              14.000              TL,2 + 1,                          110 m2,20 Yaşında,                      Teras Katı
+              5.500              TL,Stüdyo,                          55 m2,5 Yaşında,                      2. Kat
+              4.500              TL,Stüdyo,                          30 m2,Sıfır Bina,                      1. Kat
+              15.000              TL,2 + 1,                          100 m2,32 Yaşında,                      1. Kat
+              6.000              TL,1 + 1,                          65 m2,30 Yaşında,                      2. Kat
+              8.750              TL,3 + 1,                          120 m2,30 Yaşında,                      4. Kat
+              6.500              TL,1 + 1,                          75 m2,30 Yaşında,                      Giriş Katı
+              5.000              TL,1 + 1,                          60 m2,30 Yaşında,                      1. Kat
+              4.000              TL,2 + 1,                          75 m2,40 Yaşında,                      1. Kat
+              5.500              TL,2 + 1,                          80 m2,32 Yaşında,                      En Üst Kat
+              9.000              TL,3 + 1,                          120 m2,31 Yaşında,                      4. Kat
+              8.700              TL,2 + 1,                          100 m2,32 Yaşında,                      2. Kat
+              700              TL,3 + 1,                          130 m2,18 Yaşında,                      En Üst Kat
+              9.500              TL,2 + 1,                          85 m2,30 Yaşında,                      1. Kat
+              1.100              TL,1 + 1,                          85 m2,10 Yaşında,                      Bahçe Katı
+              8.000              TL,2 + 1,                          90 m2,30 Yaşında,                      Yüksek Giriş
+              6.500              TL,2 + 1,                          85 m2,35 Yaşında,                      1. Kat
+              25.000              TL,1 + 1,                          70 m2,Sıfır Bina,                      1. Kat
+              16.000              TL,2 + 1,                          100 m2,31 Yaşında,                      Yüksek Giriş
+              7.500              TL,2 + 1,                          150 m2,31 Yaşında,                      Giriş Katı
+              5.000              TL,1 + 1,                          65 m2,30 Yaşında,                      Ara Kat
+              5.000              TL,1 + 1,                          60 m2,15 Yaşında,                      Yüksek Giriş
+              7.500              TL,2 + 1,                          90 m2,36 Yaşında,                      1. Kat
+              14.000              TL,2 + 1,                          120 m2,25 Yaşında,                      4. Kat
+              2.000              TL,1 + 1,                          41 m2,40 Yaşında,                      2. Kat
+              14.000              TL,2 + 1,                          130 m2,32 Yaşında,                      1. Kat
+              6.500              TL,2 + 1,                          85 m2,30 Yaşında,                      2. Kat
+              17.000              TL,2 + 1,                          90 m2,21 Yaşında,                      3. Kat
+              4.000              TL,2 + 1,                          65 m2,30 Yaşında,                      1. Kat
+              7.000              TL,2 + 1,                          110 m2,50 Yaşında,                      Çatı Katı
+              6.000              TL,Stüdyo,                          45 m2,5 Yaşında,                      2. Kat
+              5.000              TL,Stüdyo,                          25 m2,25 Yaşında,                      En Üst Kat
+              5.000              TL,1 + 1,                          65 m2,30 Yaşında,                      1. Kat
+              4.000              TL,Stüdyo,                          25 m2,25 Yaşında,                      En Üst Kat
+              11.000              TL,3 + 1,                          150 m2,30 Yaşında,                      2. Kat
+              11.000              TL,2 + 1,                          110 m2,30 Yaşında,                      1. Kat
+              11.000              TL,3 + 1,                          95 m2,30 Yaşında,                      Yüksek Giriş
+              4.500              TL,Stüdyo,                          25 m2,31 Yaşında,                      1. Kat
+              3.500              TL,Stüdyo,                          25 m2,40 Yaşında,                      Ara Kat
+              11.000              TL,2 + 1,                          65 m2,40 Yaşında,                      Ara Kat
+              5.000              TL,Stüdyo,                          35 m2,31 Yaşında,                      2. Kat
+              8.000              TL,2 + 1,                          100 m2,31 Yaşında,                      1. Kat
+              5.000              TL,Stüdyo,                          25 m2,40 Yaşında,                      2. Kat
+              8.000              TL,2 + 1,                          95 m2,31 Yaşında,                      1. Kat
+              5.000              TL,1 + 1,                          70 m2,35 Yaşında,                      2. Kat
+              5.000              TL,1 + 1,                          65 m2,28 Yaşında,                      Giriş Katı
